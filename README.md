@@ -9,8 +9,7 @@ This project aims to extract data from the website https://desktop.bg/computers-
 1. Create a new folder on your local machine where you want to store the project.
    
 2. Open a terminal and navigate to the newly created folder. Clone the project from GitHub using the following command:
-
-    ###git clone https://github.com/BlackRock17/Collection_Data_Scrapy.git###
+    ```git clone https://github.com/BlackRock17/Collection_Data_Scrapy.git```
 
 3. After successful cloning, navigate to the project folder:
     ###cd Collection_Data_Scrapy###
