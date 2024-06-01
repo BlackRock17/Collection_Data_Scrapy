@@ -23,11 +23,11 @@ This project aims to extract data from the website https://desktop.bg/computers-
 5. Then activate the virtual environment:
   - For Windows:
 
-         ```venv\Scripts\activate```
+         venv\Scripts\activate
 
   - For Unix or MacOS:
 
-         ```source venv/bin/activate```
+         source venv/bin/activate
 
 6. Install the required packages listed in the requirements.txt file:
 
@@ -45,7 +45,7 @@ This project aims to extract data from the website https://desktop.bg/computers-
 
 10. After the process is finished, a file named 'computers.db' will appear in the spiders folder, containing the collected data.
     
-11. You should now have all the available computer configurations from the website 'https://desktop.bg/computers-all' in the database, excluding duplicates.
+11. You should now have all the available computer configurations from the website https://desktop.bg/computers-all in the database, excluding duplicates.
     I noticed that the database contains fewer computers than those on the website.
     After personally reviewing the data, I found that some computers and their configurations are repeated, with the only difference being the price and the presence of promotions.
     Due to this reason, the records in the database differ, as the code I have written does not allow duplicate entries.
