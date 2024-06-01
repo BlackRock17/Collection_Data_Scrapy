@@ -67,4 +67,6 @@ You will find detailed information on how to start it in its README file.
 
 Link to Computers_API: https://github.com/BlackRock17/Computers_API.git
 
-If you have any questions, feel free to contact me via email at lyyubo@gmail.com or by phone at 0895028398.
+### If you have any questions, feel free to contact me via email at lyyubo@gmail.com or by phone at 0895028398.
+
+### Thank you!
